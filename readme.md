@@ -4,7 +4,7 @@ Example set of automated test that's compatible for both of Symbolic's staging a
 
 # Dependency
 - Ruby 2.6.3
-- Rspec
+- Cucumber
 - Watir
 
 # Installation
@@ -16,4 +16,4 @@ Example set of automated test that's compatible for both of Symbolic's staging a
 
 # Run scenario
 
-Execute `rspec`
+Execute `cucumber`
